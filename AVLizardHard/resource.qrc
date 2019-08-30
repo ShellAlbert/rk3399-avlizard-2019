@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/skin">
+        <file>skin.qss</file>
+    </qresource>
+    <qresource prefix="/motor"/>
+</RCC>
